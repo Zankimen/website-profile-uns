@@ -1,0 +1,59 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: linear-gradient(#00d5ff 0%, #ffffff 40%, #2112c9 100%);}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 200px;
+    padding-bottom: 10px;
+
+}
+.profileImage {
+    width: 200px;
+}
+.profile h2 {
+    color: black;
+}
+.profile h4 {
+    color: black;
+    transform: translateY(-10px);
+}
+.aboutus {
+    background: linear-gradient(#ffffff 0%, #ffffffe0 40%, #ffffff00 100%);
+    padding-bottom: 200px;
+    padding-top: 200px;
+
+}
+.text-center p {
+    transform: translateY(10px);
+}
+.achievement {
+    padding-top: 100px;
+    padding-bottom: 200px;
+
+
+}
+.footer {
+    background-color: white;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 20px;
+}
+.watermark {
+    padding-top: 30px;
+}
+.modal-body {
+    text-align: left;
+}
+.modal-body p {
+    margin-right: 20px; 
+}
+
+
